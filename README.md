@@ -3,7 +3,7 @@
 I am a **Computer Engineering** student at **CEFET-MG** with a solid background in **Industrial Automation**. I'm passionate about low-level programming, algorithms, and bridging the gap between hardware and software.
 
 ## 🎓 Academic & Professional Background
-- 🎓 **Computer Engineering** @ CEFET-MG (Ongoing | GPA: 78.34)
+- 🎓 **Computer Engineering** @ CEFET-MG (Ongoing)
 - ⚙️ **Industrial Automation Technician** @ SENAI
 - 🏆 **Stellantis Education Award** Winner (Recognized for academic excellence)
 - 🌎 **English Proficiency**: B2 Upper Intermediate (Cambridge Linguaskill Certified - C1 in Reading)
