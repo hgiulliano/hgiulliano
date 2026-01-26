@@ -4,7 +4,6 @@
 
 - ⚙️ **Technical Background**: Industrial Automation (SENAI)
 - 🏆 **Achievement**: Stellantis Education Award Winner
-- 📊 **Academic Performance**: GPA 78.34
 - 🌎 **Languages**: English B2 (Cambridge Linguaskill - C1 in Reading)
 
 ## 🛠️ Tech Stack
@@ -13,4 +12,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-[LinkedIn](https://www.linkedin.com/in/hgiulliano) | [Portfolio Projects](#)
+[LinkedIn](https://www.linkedin.com/in/hgiulliano)
