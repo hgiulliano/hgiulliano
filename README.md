@@ -4,9 +4,9 @@ I am a **Computer Engineering student** passionate about building efficient back
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, JavaScript, and C.
-- **Database:** PostgreSQL (currently learning).
-- **Tools:** Git, GitHub, and customized PowerShell environments.
+- **Languages:** Python, JavaScript.
+- **Database:** PostgreSQL.
+- **Tools:** Git, GitHub
 
 ### 📫 Contact
 
