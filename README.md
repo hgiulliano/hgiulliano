@@ -1,6 +1,6 @@
 # Hi, I'm Henrique 👋
 
-I am a **Computer Engineering student at CEFET-MG** passionate about building efficient back-end systems and solving complex problems with code.
+I am a **Computer Engineering student at @CEFET-MG** passionate about building efficient back-end systems and solving complex problems with code.
 
 ### 🛠 Tech Stack
 
