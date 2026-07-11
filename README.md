@@ -1,4 +1,4 @@
-# Hi, I'm Henrique 👋
+# Hello, I'm Henrique Giulliano.
 
 I am a **Computer Engineering student at @CEFET-MG** passionate about building efficient back-end systems and solving complex problems with code.
 
@@ -11,4 +11,4 @@ I am a **Computer Engineering student at @CEFET-MG** passionate about building e
 ### 📫 Contact
 
 - **LinkedIn:** [hgiulliano](https://www.linkedin.com/in/hgiulliano/)
-- **Email:** contatohenriquegiulliano@gmail.com
+- **Email:** henrique.giulliano@gmail.com
