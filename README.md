@@ -4,7 +4,7 @@ I am a **Computer Engineering student at @CEFET-MG** passionate about building e
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, JavaScript, C.
+- **Languages:** Java, Python, JavaScript, C.
 - **Database:** PostgreSQL.
 - **Tools:** Git, GitHub
 
