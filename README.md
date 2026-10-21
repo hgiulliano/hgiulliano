@@ -5,9 +5,9 @@
 I'm a Computer Engineering student at **CEFET-MG** and an Industrial Automation Technician (**SENAI**). That mix of a technical background and a software degree shapes how I work: I like understanding how things fit together, from the database to the screen.
 
 Right now I'm building my back-end and full-stack skills through hands-on projects, with a focus on **JavaScript, Node.js and relational databases**. I learn by building, breaking things, and writing down what I figure out.
-
-<a href="https://www.linkedin.com/in/hgiulliano/"><img src="https://img.shields.io/badge/LinkedIn-hgiulliano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"></a>
-
+<p allign="center">
+  <a href="https://www.linkedin.com/in/hgiulliano/"><img src="https://img.shields.io/badge/LinkedIn-hgiulliano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"></a>
+</p>
 ---
 
 ## 🛠️ Technologies
