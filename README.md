@@ -6,7 +6,7 @@ I'm a Computer Engineering student at **CEFET-MG** and an Industrial Automation 
 
 Right now I'm building my back-end and full-stack skills through hands-on projects, with a focus on **JavaScript, Node.js and relational databases**. I learn by building, breaking things, and writing down what I figure out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hgiulliano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hgiulliano/)
+<a href="https://www.linkedin.com/in/hgiulliano/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
 
 ---
 
