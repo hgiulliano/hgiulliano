@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a8a&height=180&section=header&text=Henrique%20Giulliano&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Back-end%20Development&descAlignY=60&descSize=16" width="100%" alt="Header">
 
-## 👋 About me
+## About me
 
 I'm a Computer Engineering student at **CEFET-MG** and an Industrial Automation Technician (**SENAI**). That mix of a technical background and a software degree shapes how I work: I like understanding how things fit together, from the database to the screen.
 
