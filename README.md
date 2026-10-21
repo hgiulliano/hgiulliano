@@ -8,7 +8,6 @@ Right now I'm building my back-end and full-stack skills through hands-on projec
 <p align="center">
   <a href="https://www.linkedin.com/in/hgiulliano/"><img src="https://img.shields.io/badge/LinkedIn-hgiulliano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"></a>
 </p>
----
 
 ## 🛠️ Technologies
 
