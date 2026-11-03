@@ -10,7 +10,7 @@ I'm a Computer Engineering student at **CEFET-MG** and an Industrial Automation 
 
 Right now I'm building my back-end and full-stack skills through hands-on projects, with a focus on **JavaScript, Node.js and relational databases**. I learn by building, breaking things, and writing down what I figure out.
 
-## 🛠️ Technologies
+## Technologies
 
 **Working with and improving**
 
@@ -24,6 +24,7 @@ Right now I'm building my back-end and full-stack skills through hands-on projec
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
@@ -35,29 +36,31 @@ Right now I'm building my back-end and full-stack skills through hands-on projec
 
 ---
 
-## 🔭 Currently
+## Currently
 
+- Building **Gamified Kanban** to practice using AI tools as a code reviewer: I describe the requirements, read the generated diff and test everything in the browser.
 - Rebuilding my Node.js, Express and PostgreSQL fundamentals with **DnD Sheet Creator**, including cleaning up security details like credentials and input validation.
 - Practicing object-oriented design in Java.
 - Improving how I document projects, so anyone can run them in a few minutes.
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
+- **[Gamified Kanban](https://github.com/hgiulliano/gamified-kanban-node)**: Kanban board with XP and levels, where each task pays XP only once. Node.js, Express, PostgreSQL, React and Docker.
 - **[DnD Sheet Creator](https://github.com/hgiulliano/DnD-Sheet-Creator)**: full-stack web app to create, edit and store D&D character sheets. Node.js, Express, PostgreSQL and Docker.
 - **[SIGAA Dark Mode](https://github.com/hgiulliano/sigaa-cefetmg-modoescuro)**: Chrome extension that applies a dark theme to the CEFET-MG SIGAA portal, used by other students.
 - **[Java RPG Engine](https://github.com/hgiulliano/java-rpg-engine)**: terminal-based combat engine in Java, built to practice object-oriented programming.
 
 ---
 
-## 🤖 A note on AI
+## A note on AI
 
-I use AI as a study and documentation tool. Each project's README states how much it was involved, because I think being transparent about it matters.
+I use AI as a study and documentation tool. Each project's README states how much it was involved, because I think being transparent about it matters. The [Gamified Kanban README](https://github.com/hgiulliano/gamified-kanban-node#por-que-este-projeto-existe) shows how that looked in practice, with the bugs I found while reviewing the code.
 
 ---
 
-## 🤝 Let's connect
+## Let's connect
 
 I'm always open to talking about code, projects and opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/hgiulliano/).
 
